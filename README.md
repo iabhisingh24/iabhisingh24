@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**iabhisingh24/iabhisingh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Abhinav**, a **Python Developer** and **Data Engineering enthusiast**, recently graduated with a **B.Tech in Computer Science (2025)**.
 
-Here are some ideas to get you started:
+- I’m currently working on Python and data engineering projects  
+- I’m currently learning Spark, PySpark, data pipelines, and cloud data tools  
+- I’m looking to collaborate on beginner-friendly Python or data projects  
+- I’m looking for help with improving real-world system design and data workflows  
+- Ask me about Python, SQL, Spark, Hadoop, or backend logic  
+- How to reach me: *iabhinavsingh2411@gmail.com*   
+- Fun fact: I learn best by building projects and breaking things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Languages:** Python, SQL, Java (basic)
+- **Data Engineering:** Spark, PySpark, Hadoop, Hive
+- **Databases:** MySQL
+- **Cloud & Tools:** Azure, Databricks, Git, GitHub
+
+- Thanks for stopping by!
